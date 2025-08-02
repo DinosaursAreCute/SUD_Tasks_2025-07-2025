@@ -1,0 +1,25 @@
+- Ein Kfz darf nur mit einem Fahrer mit gültigem Führerschein losfahren;
+- beim Einsteigen ist der Führerschein ggf. zu prüfen.
+- Fahrer sind Schichtarbeiter mit Führerscheinklasse B, C oder D.
+- Jedes Kfz besitzt eine GPS-Position.
+- Jedes Kfz kann zu einer neuen GPS-Position fahren, wenn ein zulässiger Fahrer an Bord ist.
+- Eine GPS-Position besteht aus Längengrad (0° bis <360°) und Breitengrad (-90° bis 90°).
+- In Personentransportfahrzeuge dürfen nur Mitarbeiter als Passagiere einsteigen; keine Fremden.
+- Busfahrer benötigen Führerscheinklasse D.
+- Lkw-Fahrer benötigen Führerscheinklasse C.
+
+- Eine Abteilung hat:
+- einen Namen,
+- eine Mitarbeiterliste,
+- einen Manager als Leiter.
+Mitarbeiter können einer Abteilung hinzugefügt und entfernt werden.
+Der Abteilungsleiter kann ausgetauscht werden; der alte Leiter wird zurückgegeben.
+Für jede Abteilung kann die Einkommenssumme ermittelt werden.
+Für jede Abteilung kann eine Liste der Mitarbeiter mit Namen und Gehalt als Text erzeugt werden.
+Die Unternehmensverwaltung verwaltet:
+eine Liste aller Fahrzeuge (Fuhrpark),
+eine Liste aller Mitarbeiter (Personal),
+eine Liste aller Abteilungen.
+Schichtarbeiter werden zusätzlich in einer separaten Liste geführt.
+Die Verwaltung kann Elemente zu den Listen hinzufügen und entfernen.
+Die Methode arbeitsTag() erhöht die Stunden aller Schichtarbeiter um 8 Stunden.
