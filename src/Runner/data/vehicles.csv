@@ -1,0 +1,48 @@
+Type,Brand,Model,Year,Capacity_or_Seats
+TRUCK,Ford,F-350,2022,5000
+TRUCK,Chevrolet,Silverado 3500,2023,6500
+TRUCK,RAM,3500,2021,7000
+TRUCK,GMC,Sierra 3500,2022,6000
+TRUCK,Ford,F-450,2023,8500
+TRUCK,Freightliner,Cascadia,2020,15000
+TRUCK,Peterbilt,579,2021,18000
+TRUCK,Kenworth,T680,2022,16500
+TRUCK,Volvo,VNL,2021,17000
+TRUCK,Mack,Anthem,2023,19000
+TRUCK,International,LT,2020,14500
+TRUCK,Ford,Transit 350,2022,3500
+TRUCK,Isuzu,NPR,2021,12000
+TRUCK,Hino,268,2023,15500
+TRUCK,UD Trucks,Quon,2022,20000
+BUS,Blue Bird,Vision,2021,48
+BUS,IC Bus,CE Series,2022,54
+BUS,Thomas Built,Saf-T-Liner,2020,42
+BUS,Collins,NexBus,2023,36
+BUS,Starcraft,Quest,2021,28
+BUS,Blue Bird,All American,2022,72
+BUS,IC Bus,RE Series,2020,66
+BUS,Thomas Built,Minotour,2023,38
+PASSENGER,Toyota,Camry,2022,5
+PASSENGER,Honda,Accord,2023,5
+PASSENGER,Ford,Fusion,2021,5
+PASSENGER,Chevrolet,Malibu,2022,5
+PASSENGER,Nissan,Altima,2023,5
+PASSENGER,Hyundai,Elantra,2021,5
+PASSENGER,Kia,Optima,2022,5
+PASSENGER,Toyota,Corolla,2023,5
+PASSENGER,Honda,Civic,2021,5
+PASSENGER,Ford,Focus,2022,5
+PASSENGER,Chevrolet,Cruze,2023,5
+PASSENGER,Nissan,Sentra,2021,5
+PASSENGER,Mazda,Mazda6,2022,5
+PASSENGER,Subaru,Legacy,2023,5
+PASSENGER,Volkswagen,Passat,2021,5
+PASSENGER,Toyota,Sienna,2022,8
+PASSENGER,Honda,Odyssey,2023,8
+PASSENGER,Chrysler,Pacifica,2021,8
+PASSENGER,Ford,Explorer,2022,7
+PASSENGER,Chevrolet,Tahoe,2023,8
+PASSENGER,Toyota,Highlander,2021,8
+PASSENGER,Honda,Pilot,2022,8
+PASSENGER,Ford,Expedition,2023,8
+PASSENGER,Chevrolet,Suburban,2021,9

@@ -11,11 +11,23 @@ public class PassengerVehicle extends Vehicle {
     private Logger logger = new Logger(getClass().getSimpleName());
     private int seatCount;
     private List<Employee> passengers;
+    private String brand;
+    private String model;
+    private int year;
 
     public PassengerVehicle(double tankSize, double maxSpeed, GPSPosition position, int seatCount) {
         super(tankSize, maxSpeed, position);
         setPosition(position);
         setSeatCount(seatCount);
+        setPassengers(new ArrayList<>());
+    }
+    
+    public PassengerVehicle(String brand, String model, int year, int seats) {
+        super(50.0, 150.0, new GPSPosition(0.0, 0.0)); // Default values
+        this.brand = brand;
+        this.model = model;
+        this.year = year;
+        setSeatCount(seats);
         setPassengers(new ArrayList<>());
     }
 
@@ -48,6 +60,12 @@ public class PassengerVehicle extends Vehicle {
     }
 
     public int getPassengerCount() { return passengers.size(); }
+    public int getSeats() { return seatCount; }
+    
+    // Getters for CSV data
+    public String getBrand() { return brand; }
+    public String getModel() { return model; }
+    public int getYear() { return year; }
 
     @Override
     public String toString() {

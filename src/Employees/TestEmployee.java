@@ -41,7 +41,7 @@ public class TestEmployee {
         e1.setSalary(3200);
         Employees.Employee e2 = new Employees.ShiftWorker(3001, "bob example", 20);
         ((Employees.ShiftWorker) e2).work(40);
-        Driver e3 = new Employees.Driver(3002, "carol example", 25, 'B');
+        Driver e3 = new Employees.Driver(2002, "carol example", 25, 'B');
         e3.work(16);
 
         // Type check and downcasting

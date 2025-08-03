@@ -7,10 +7,24 @@ public class Truck extends Vehicle {
     private Logger logger = new Logger(getClass().getSimpleName());
     private double loadingArea;
     private double loadedArea;
+    private String brand;
+    private String model;
+    private int year;
+    private int cargoCapacity;
 
     public Truck(double tankSize, double maxSpeed, GPSPosition position, double loadingArea) {
         super(tankSize, maxSpeed, position);
         setLoadingArea(loadingArea);
+        setLoadedArea(0);
+    }
+    
+    public Truck(String brand, String model, int year, int cargoCapacity) {
+        super(50.0, 120.0, new GPSPosition(0.0, 0.0)); // Default values
+        this.brand = brand;
+        this.model = model;
+        this.year = year;
+        this.cargoCapacity = cargoCapacity;
+        setLoadingArea(cargoCapacity);
         setLoadedArea(0);
     }
 
@@ -40,4 +54,11 @@ public class Truck extends Vehicle {
         super.setDriver(driver);
     }
     public double getLoadedArea() { return loadedArea; }
+    public double getLoadingArea() { return loadingArea; }
+    
+    // Getters for CSV data
+    public String getBrand() { return brand; }
+    public String getModel() { return model; }
+    public int getYear() { return year; }
+    public int getCargoCapacity() { return cargoCapacity; }
 }

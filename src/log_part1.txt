@@ -1,0 +1,1394 @@
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Fernando Santos
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Fernando Santos
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Fernando Santos 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2018, Name: Fernando Santos, Hourly Rate: 27.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Gloria Aguilar
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Gloria Aguilar
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Gloria Aguilar 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2019, Name: Gloria Aguilar, Hourly Rate: 25.5, License: A
+2025-08-02 21:52:12 [INFO]    [CompanyDataManager.loadEmployeesFromFile] Employees loaded successfully
+2025-08-02 21:52:12 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Loading departments from Runner/data/departments.csv
+2025-08-02 21:52:12 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Departments loaded successfully
+2025-08-02 21:52:12 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Loading vehicles from Runner/data/vehicles.csv
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:12 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:12 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:52:13 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:52:13 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:52:13 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Vehicles loaded successfully
+2025-08-02 21:52:13 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Assigning employees to departments
+2025-08-02 21:52:13 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Employees assigned to departments
+2025-08-02 21:52:13 [INFO]    [CompanyDataManager.loadAllData] All company data loaded successfully
+2025-08-02 21:52:13 [INFO]    [MainApplicationSwing.<init>]    UI application started successfully
+2025-08-02 21:52:13 [INFO]    [RunnerLauncher.lambda$launchGuiVersion$0] GUI application launched successfully
+2025-08-02 21:52:13 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:52:13 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Refreshing department table
+2025-08-02 21:52:13 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Department table refreshed with 13 departments
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: alice example
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: alice example
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Alice Example 
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: bob example
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: bob example
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Bob Example 
+2025-08-02 21:52:24 [DEBUG]   [Driver.<init>]                  Initializing employee with name: carol example
+2025-08-02 21:52:24 [DEBUG]   [Driver.setName]                 Attempting to set name: carol example
+2025-08-02 21:52:24 [DEBUG]   [Driver.setName]                 Capitalized name: Carol Example 
+2025-08-02 21:52:24 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: carol example, Hourly Rate: 25.0, License: B
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: fail
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: fail
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Fail 
+2025-08-02 21:52:24 [ERROR]   [OfficeWorker.setId]             Error setting ID: OfficeWorker ID must start with 5
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: fail
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: fail
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Fail 
+2025-08-02 21:52:24 [ERROR]   [ShiftWorker.setId]              Error setting ID: ShiftWorker ID must start with 3
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: alice example
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: alice example
+2025-08-02 21:52:24 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Alice Example 
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: bob example
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: bob example
+2025-08-02 21:52:24 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Bob Example 
+2025-08-02 21:52:24 [DEBUG]   [Manager.<init>]                 Initializing employee with name: eve example
+2025-08-02 21:52:24 [DEBUG]   [Manager.setName]                Attempting to set name: eve example
+2025-08-02 21:52:24 [DEBUG]   [Manager.setName]                Capitalized name: Eve Example 
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Department: IT
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Head: Eve Example
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Total Salary: 7800.0
+2025-08-02 21:52:24 [DEBUG]   [Driver.<init>]                  Initializing employee with name: carol example
+2025-08-02 21:52:24 [DEBUG]   [Driver.setName]                 Attempting to set name: carol example
+2025-08-02 21:52:24 [DEBUG]   [Driver.setName]                 Capitalized name: Carol Example 
+2025-08-02 21:52:24 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: carol example, Hourly Rate: 25.0, License: C
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Employees after adding: 3
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Employees after removing: 2
+2025-08-02 21:52:24 [DEBUG]   [Manager.<init>]                 Initializing employee with name: frank example
+2025-08-02 21:52:24 [DEBUG]   [Manager.setName]                Attempting to set name: frank example
+2025-08-02 21:52:24 [DEBUG]   [Manager.setName]                Capitalized name: Frank Example 
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         New head: Frank Example
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Type: OfficeWorker, Name: Alice Example, Salary: 3000.0
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Type: Driver, Name: Carol Example, Salary: 250.0
+2025-08-02 21:52:24 [INFO]    [TestDepartment.logInfo]         Driver license: C
+2025-08-02 21:52:24 [INFO]    [Rectangle.<init>]               Creating shape with width: 7.7 Height: 4.0
+2025-08-02 21:52:24 [INFO]    [Circle.<init>]                  Creating shape with width: 2.5 Height: 2.5
+2025-08-02 21:52:31 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: John Doe
+2025-08-02 21:52:31 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: John Doe
+2025-08-02 21:52:31 [DEBUG]   [OfficeWorker.setName]           Capitalized name: John Doe 
+2025-08-02 21:52:31 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Jane Smith
+2025-08-02 21:52:31 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Jane Smith
+2025-08-02 21:52:31 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Jane Smith 
+2025-08-02 21:52:31 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Bob Johnson
+2025-08-02 21:52:31 [DEBUG]   [Driver.setName]                 Attempting to set name: Bob Johnson
+2025-08-02 21:52:31 [DEBUG]   [Driver.setName]                 Capitalized name: Bob Johnson 
+2025-08-02 21:52:31 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Bob Johnson, Hourly Rate: 25.0, License: B
+2025-08-02 21:52:31 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Alice Manager
+2025-08-02 21:52:31 [DEBUG]   [Manager.setName]                Attempting to set name: Alice Manager
+2025-08-02 21:52:31 [DEBUG]   [Manager.setName]                Capitalized name: Alice Manager 
+2025-08-02 21:53:05 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:53:05 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:53:05 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:53:05 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:53:05 [INFO]    [VehicleManagerUI.createVehicle] Created vehicle: Truck{tankSize=20,00, tankLevel=0,00, currentSpeed=0,00, maxSpeed=20,00, engineOn=false, position=GPSPosition{longitude=20,000000, latitude=20,000000}, driver=Default Driver}
+2025-08-02 21:53:18 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:53:19 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: alice example
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: alice example
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Alice Example 
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: bob example
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: bob example
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Bob Example 
+2025-08-02 21:53:41 [DEBUG]   [Driver.<init>]                  Initializing employee with name: carol example
+2025-08-02 21:53:41 [DEBUG]   [Driver.setName]                 Attempting to set name: carol example
+2025-08-02 21:53:41 [DEBUG]   [Driver.setName]                 Capitalized name: Carol Example 
+2025-08-02 21:53:41 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: carol example, Hourly Rate: 25.0, License: B
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: fail
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: fail
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Fail 
+2025-08-02 21:53:41 [ERROR]   [OfficeWorker.setId]             Error setting ID: OfficeWorker ID must start with 5
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: fail
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: fail
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Fail 
+2025-08-02 21:53:41 [ERROR]   [ShiftWorker.setId]              Error setting ID: ShiftWorker ID must start with 3
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: alice example
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: alice example
+2025-08-02 21:53:41 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Alice Example 
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: bob example
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: bob example
+2025-08-02 21:53:41 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Bob Example 
+2025-08-02 21:53:41 [DEBUG]   [Manager.<init>]                 Initializing employee with name: eve example
+2025-08-02 21:53:41 [DEBUG]   [Manager.setName]                Attempting to set name: eve example
+2025-08-02 21:53:41 [DEBUG]   [Manager.setName]                Capitalized name: Eve Example 
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Department: IT
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Head: Eve Example
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Total Salary: 7800.0
+2025-08-02 21:53:41 [DEBUG]   [Driver.<init>]                  Initializing employee with name: carol example
+2025-08-02 21:53:41 [DEBUG]   [Driver.setName]                 Attempting to set name: carol example
+2025-08-02 21:53:41 [DEBUG]   [Driver.setName]                 Capitalized name: Carol Example 
+2025-08-02 21:53:41 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: carol example, Hourly Rate: 25.0, License: C
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Employees after adding: 3
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Employees after removing: 2
+2025-08-02 21:53:41 [DEBUG]   [Manager.<init>]                 Initializing employee with name: frank example
+2025-08-02 21:53:41 [DEBUG]   [Manager.setName]                Attempting to set name: frank example
+2025-08-02 21:53:41 [DEBUG]   [Manager.setName]                Capitalized name: Frank Example 
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         New head: Frank Example
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Type: OfficeWorker, Name: Alice Example, Salary: 3000.0
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Type: Driver, Name: Carol Example, Salary: 250.0
+2025-08-02 21:53:41 [INFO]    [TestDepartment.logInfo]         Driver license: C
+2025-08-02 21:53:41 [INFO]    [Rectangle.<init>]               Creating shape with width: 7.7 Height: 4.0
+2025-08-02 21:53:41 [INFO]    [Circle.<init>]                  Creating shape with width: 2.5 Height: 2.5
+2025-08-02 21:54:54 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Stephanie Brown
+2025-08-02 21:54:54 [DEBUG]   [Manager.setName]                Attempting to set name: Stephanie Brown
+2025-08-02 21:54:54 [DEBUG]   [Manager.setName]                Capitalized name: Stephanie Brown 
+2025-08-02 21:54:54 [INFO]    [EmployeeManagerUI.createEmployee] Employee created: Manager{id=5014, name='Stephanie Brown', salary=91000,00, bonus=0,00}
+2025-08-02 21:55:06 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Barbara Anderson
+2025-08-02 21:55:06 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Barbara Anderson 
+2025-08-02 21:55:06 [INFO]    [EmployeeManagerUI.updateEmployee] Employee updated: OfficeWorker{id=5109, name='Barbara Anderson', salary=52000,00}
+2025-08-02 21:55:07 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Barbara Anderson
+2025-08-02 21:55:07 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Barbara Anderson
+2025-08-02 21:55:07 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Barbara Anderson 
+2025-08-02 21:55:07 [INFO]    [EmployeeManagerUI.createEmployee] Employee created: OfficeWorker{id=5109, name='Barbara Anderson', salary=52000,00}
+2025-08-02 21:56:05 [INFO]    [RunnerLauncher.main]            Starting Company Management System Runner
+2025-08-02 21:56:05 [INFO]    [RunnerLauncher.main]            Starting in GUI mode
+2025-08-02 21:56:05 [INFO]    [MainApplicationSwing.<init>]    Initializing Company Management System Runner UI
+2025-08-02 21:56:05 [DEBUG]   [MainApplicationSwing.initializeComponents] Initializing UI components
+2025-08-02 21:56:05 [INFO]    [EmployeeManagerUI.<init>]       Enhanced EmployeeManagerUI initialized with CompanyManagement integration
+2025-08-02 21:56:05 [INFO]    [VehicleManagerUI.<init>]        VehicleManagerUI initialized with table view
+2025-08-02 21:56:05 [INFO]    [ShapeManagerUI.<init>]          ShapeManagerUI initialized
+2025-08-02 21:56:05 [INFO]    [DepartmentManagerUI.<init>]     DepartmentManagerUI initialized with table view
+2025-08-02 21:56:05 [INFO]    [TestRunnerUI.<init>]            TestRunnerUI initialized
+2025-08-02 21:56:05 [DEBUG]   [MainApplicationSwing.initializeComponents] UI components initialized successfully
+2025-08-02 21:56:05 [INFO]    [MainApplicationSwing.initializeDataManager] Initializing data manager and loading company data
+2025-08-02 21:56:05 [INFO]    [CompanyDataManager.<init>]      CompanyDataManager initialized
+2025-08-02 21:56:05 [INFO]    [CompanyDataManager.loadAllData] Loading all company data from files
+2025-08-02 21:56:05 [INFO]    [CompanyDataManager.loadEmployeesFromFile] Loading employees from Runner/data/employees.csv
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Sarah Johnson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Sarah Johnson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Sarah Johnson 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Michael Chen
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Michael Chen
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Michael Chen 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Jennifer Lopez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Jennifer Lopez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Jennifer Lopez 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: David Williams
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: David Williams
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: David Williams 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Lisa Anderson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Lisa Anderson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Lisa Anderson 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Robert Davis
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Robert Davis
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Robert Davis 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Emily Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Emily Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Emily Rodriguez 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Christopher Lee
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Christopher Lee
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Christopher Lee 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Amanda Miller
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Amanda Miller
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Amanda Miller 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: James Wilson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: James Wilson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: James Wilson 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Nicole Garcia
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Nicole Garcia
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Nicole Garcia 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Kevin Martinez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Kevin Martinez
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Kevin Martinez 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Rachel Thompson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Rachel Thompson
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Rachel Thompson 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Mark Taylor
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Mark Taylor
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Mark Taylor 
+2025-08-02 21:56:05 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Stephanie Brown
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Attempting to set name: Stephanie Brown
+2025-08-02 21:56:05 [DEBUG]   [Manager.setName]                Capitalized name: Stephanie Brown 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: John Smith
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: John Smith
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: John Smith 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Mary Johnson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Mary Johnson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Mary Johnson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Patricia Williams
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Patricia Williams
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Patricia Williams 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Robert Jones
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Robert Jones
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Robert Jones 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Jennifer Davis
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Jennifer Davis
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Jennifer Davis 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Michael Miller
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Michael Miller
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Michael Miller 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Linda Wilson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Linda Wilson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Linda Wilson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Elizabeth Moore
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Elizabeth Moore
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Elizabeth Moore 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: William Taylor
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: William Taylor
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: William Taylor 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Barbara Anderson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Barbara Anderson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Barbara Anderson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Richard Thomas
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Richard Thomas
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Richard Thomas 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Susan Jackson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Susan Jackson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Susan Jackson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Joseph White
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Joseph White
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Joseph White 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Jessica Harris
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Jessica Harris
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Jessica Harris 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Thomas Martin
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Thomas Martin
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Thomas Martin 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Sarah Thompson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Sarah Thompson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Sarah Thompson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Christopher Garcia
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Christopher Garcia
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Christopher Garcia 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Nancy Martinez
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Nancy Martinez
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Nancy Martinez 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Daniel Robinson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Daniel Robinson
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Daniel Robinson 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Karen Clark
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Karen Clark
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Karen Clark 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Matthew Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Matthew Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Matthew Rodriguez 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Betty Lewis
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Betty Lewis
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Betty Lewis 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Anthony Lee
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Anthony Lee
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Anthony Lee 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Helen Walker
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Helen Walker
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Helen Walker 
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Mark Hall
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Mark Hall
+2025-08-02 21:56:05 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Mark Hall 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Carlos Gonzalez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Carlos Gonzalez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Carlos Gonzalez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Maria Hernandez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Maria Hernandez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Maria Hernandez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Jose Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Jose Rodriguez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Jose Rodriguez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Ana Martinez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Ana Martinez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Ana Martinez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Luis Lopez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Luis Lopez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Luis Lopez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Carmen Flores
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Carmen Flores
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Carmen Flores 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Miguel Torres
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Miguel Torres
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Miguel Torres 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Rosa Ramirez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Rosa Ramirez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Rosa Ramirez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Francisco Gutierrez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Francisco Gutierrez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Francisco Gutierrez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Isabel Morales
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Isabel Morales
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Isabel Morales 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Ramon Ortiz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Ramon Ortiz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Ramon Ortiz 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Dolores Vargas
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Dolores Vargas
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Dolores Vargas 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Eduardo Castillo
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Eduardo Castillo
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Eduardo Castillo 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Teresa Jimenez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Teresa Jimenez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Teresa Jimenez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Roberto Herrera
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Roberto Herrera
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Roberto Herrera 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Angela Medina
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Angela Medina
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Angela Medina 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Alejandro Cruz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Alejandro Cruz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Alejandro Cruz 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Monica Reyes
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Monica Reyes
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Monica Reyes 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Fernando Santos
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Fernando Santos
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Fernando Santos 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Gloria Aguilar
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Gloria Aguilar
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Gloria Aguilar 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Sergio Delgado
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Sergio Delgado
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Sergio Delgado 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Patricia Vazquez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Patricia Vazquez
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Patricia Vazquez 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Arturo Mendoza
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Arturo Mendoza
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Arturo Mendoza 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Sandra Ruiz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Sandra Ruiz
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Sandra Ruiz 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Javier Peña
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Javier Peña
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Javier Peña 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Leticia Soto
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Leticia Soto
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Leticia Soto 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Gustavo Rivera
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Gustavo Rivera
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Gustavo Rivera 
+2025-08-02 21:56:05 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Beatriz Chavez
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Beatriz Chavez
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Beatriz Chavez 
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Armando Guerrero
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Armando Guerrero
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Armando Guerrero 
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Yolanda Ramos
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Yolanda Ramos
+2025-08-02 21:56:06 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Yolanda Ramos 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Carlos Rodriguez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Carlos Rodriguez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Carlos Rodriguez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Carlos Rodriguez, Hourly Rate: 26.5, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Maria Gonzalez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Maria Gonzalez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Maria Gonzalez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Maria Gonzalez, Hourly Rate: 25.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Jose Martinez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Jose Martinez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Jose Martinez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Jose Martinez, Hourly Rate: 28.0, License: D
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Ana Lopez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Ana Lopez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Ana Lopez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Ana Lopez, Hourly Rate: 26.0, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Luis Hernandez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Luis Hernandez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Luis Hernandez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2004, Name: Luis Hernandez, Hourly Rate: 27.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Carmen Flores
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Carmen Flores
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Carmen Flores 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2005, Name: Carmen Flores, Hourly Rate: 25.5, License: A
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Miguel Torres
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Miguel Torres
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Miguel Torres 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2006, Name: Miguel Torres, Hourly Rate: 27.5, License: D
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Rosa Ramirez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Rosa Ramirez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Rosa Ramirez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2007, Name: Rosa Ramirez, Hourly Rate: 26.5, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Francisco Silva
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Francisco Silva
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Francisco Silva 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2008, Name: Francisco Silva, Hourly Rate: 25.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Isabel Morales
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Isabel Morales
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Isabel Morales 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2009, Name: Isabel Morales, Hourly Rate: 28.0, License: D
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Ramon Ortiz
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Ramon Ortiz
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Ramon Ortiz 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2010, Name: Ramon Ortiz, Hourly Rate: 26.0, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dolores Vargas
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Dolores Vargas
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Dolores Vargas 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2011, Name: Dolores Vargas, Hourly Rate: 27.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Eduardo Castillo
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Eduardo Castillo
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Eduardo Castillo 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2012, Name: Eduardo Castillo, Hourly Rate: 25.5, License: A
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Teresa Jimenez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Teresa Jimenez
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Teresa Jimenez 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2013, Name: Teresa Jimenez, Hourly Rate: 27.5, License: D
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Roberto Herrera
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Roberto Herrera
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Roberto Herrera 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2014, Name: Roberto Herrera, Hourly Rate: 26.5, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Angela Medina
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Angela Medina
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Angela Medina 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2015, Name: Angela Medina, Hourly Rate: 25.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Alejandro Cruz
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Alejandro Cruz
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Alejandro Cruz 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2016, Name: Alejandro Cruz, Hourly Rate: 28.0, License: D
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Monica Reyes
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Monica Reyes
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Monica Reyes 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2017, Name: Monica Reyes, Hourly Rate: 26.0, License: C
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Fernando Santos
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Fernando Santos
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Fernando Santos 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2018, Name: Fernando Santos, Hourly Rate: 27.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Gloria Aguilar
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Gloria Aguilar
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Gloria Aguilar 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2019, Name: Gloria Aguilar, Hourly Rate: 25.5, License: A
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadEmployeesFromFile] Employees loaded successfully
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Loading departments from Runner/data/departments.csv
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Departments loaded successfully
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Loading vehicles from Runner/data/vehicles.csv
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 21:56:06 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 21:56:06 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Vehicles loaded successfully
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Assigning employees to departments
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Employees assigned to departments
+2025-08-02 21:56:06 [INFO]    [CompanyDataManager.loadAllData] All company data loaded successfully
+2025-08-02 21:56:06 [INFO]    [MainApplicationSwing.<init>]    UI application started successfully
+2025-08-02 21:56:06 [INFO]    [RunnerLauncher.lambda$launchGuiVersion$0] GUI application launched successfully
+2025-08-02 21:56:07 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:56:07 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Refreshing department table
+2025-08-02 21:56:07 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Department table refreshed with 13 departments
+2025-08-02 21:57:15 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Refreshing department table
+2025-08-02 21:57:15 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Department table refreshed with 14 departments
+2025-08-02 21:57:15 [INFO]    [DepartmentManagerUI.createDepartment] Created department: Test
+2025-08-02 21:57:16 [INFO]    [DepartmentOverviewDialog.loadEmployeeData] Loaded 0 employees for department: Test
+2025-08-02 21:57:16 [INFO]    [DepartmentOverviewDialog.<init>] Department overview dialog created for: Test
+2025-08-02 21:57:23 [INFO]    [DepartmentOverviewDialog.exportDepartmentData] Export requested for department: Test
+2025-08-02 21:57:42 [INFO]    [DepartmentOverviewDialog.exportDepartmentData] Export requested for department: Test
+2025-08-02 21:57:45 [INFO]    [DepartmentManagerUI.openDepartmentOverview] Opened overview for department: Test
+2025-08-02 21:57:47 [INFO]    [MainApplicationSwing.saveCompanyData] Manual save requested
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveAllData] Saving all company data to files
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveEmployeesToFile] Saving employees to Runner/data/employees.csv
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveEmployeesToFile] Employees saved successfully
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveDepartmentsToFile] Saving departments to Runner/data/departments.csv
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveDepartmentsToFile] Departments saved successfully
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveVehiclesToFile] Saving vehicles to Runner/data/vehicles.csv
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveVehiclesToFile] Vehicles saved successfully
+2025-08-02 21:57:47 [INFO]    [CompanyDataManager.saveAllData] All company data saved successfully
+2025-08-02 21:58:21 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:52 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:52 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:53 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:53 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:53 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:54 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:55 [INFO]    [MainApplicationSwing.processCompanyWorkDay] Company work day processed
+2025-08-02 21:58:56 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:58 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:58 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:58 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:58 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:58 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:59 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:59 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:59 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:59 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 21:58:59 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 22:01:55 [INFO]    [MainApplicationSwing.main]      Launching Company Management System Runner UI
+2025-08-02 22:01:56 [INFO]    [MainApplicationSwing.<init>]    Initializing Company Management System Runner UI
+2025-08-02 22:01:56 [DEBUG]   [MainApplicationSwing.initializeComponents] Initializing UI components
+2025-08-02 22:01:56 [INFO]    [EmployeeManagerUI.<init>]       Enhanced EmployeeManagerUI initialized with CompanyManagement integration
+2025-08-02 22:01:56 [INFO]    [VehicleManagerUI.<init>]        VehicleManagerUI initialized with table view
+2025-08-02 22:01:56 [INFO]    [ShapeManagerUI.<init>]          ShapeManagerUI initialized
+2025-08-02 22:01:56 [INFO]    [DepartmentManagerUI.<init>]     DepartmentManagerUI initialized with table view
+2025-08-02 22:01:56 [INFO]    [TestRunnerUI.<init>]            TestRunnerUI initialized
+2025-08-02 22:01:56 [DEBUG]   [MainApplicationSwing.initializeComponents] UI components initialized successfully
+2025-08-02 22:01:56 [INFO]    [MainApplicationSwing.initializeDataManager] Initializing data manager and loading company data
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.<init>]      CompanyDataManager initialized
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadAllData] Loading all company data from files
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadEmployeesFromFile] Loading employees from Runner/data/employees.csv
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Sarah Johnson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Sarah Johnson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Sarah Johnson 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Michael Chen
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Michael Chen
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Michael Chen 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Jennifer Lopez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Jennifer Lopez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Jennifer Lopez 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: David Williams
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: David Williams
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: David Williams 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Lisa Anderson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Lisa Anderson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Lisa Anderson 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Robert Davis
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Robert Davis
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Robert Davis 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Emily Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Emily Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Emily Rodriguez 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Christopher Lee
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Christopher Lee
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Christopher Lee 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Amanda Miller
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Amanda Miller
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Amanda Miller 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: James Wilson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: James Wilson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: James Wilson 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Nicole Garcia
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Nicole Garcia
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Nicole Garcia 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Kevin Martinez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Kevin Martinez
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Kevin Martinez 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Rachel Thompson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Rachel Thompson
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Rachel Thompson 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Mark Taylor
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Mark Taylor
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Mark Taylor 
+2025-08-02 22:01:56 [DEBUG]   [Manager.<init>]                 Initializing employee with name: Stephanie Brown
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Attempting to set name: Stephanie Brown
+2025-08-02 22:01:56 [DEBUG]   [Manager.setName]                Capitalized name: Stephanie Brown 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: John Smith
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: John Smith
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: John Smith 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Mary Johnson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Mary Johnson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Mary Johnson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Patricia Williams
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Patricia Williams
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Patricia Williams 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Robert Jones
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Robert Jones
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Robert Jones 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Jennifer Davis
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Jennifer Davis
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Jennifer Davis 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Michael Miller
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Michael Miller
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Michael Miller 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Linda Wilson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Linda Wilson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Linda Wilson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Elizabeth Moore
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Elizabeth Moore
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Elizabeth Moore 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: William Taylor
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: William Taylor
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: William Taylor 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Barbara Anderson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Barbara Anderson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Barbara Anderson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Richard Thomas
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Richard Thomas
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Richard Thomas 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Susan Jackson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Susan Jackson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Susan Jackson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Joseph White
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Joseph White
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Joseph White 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Jessica Harris
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Jessica Harris
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Jessica Harris 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Thomas Martin
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Thomas Martin
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Thomas Martin 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Sarah Thompson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Sarah Thompson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Sarah Thompson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Christopher Garcia
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Christopher Garcia
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Christopher Garcia 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Nancy Martinez
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Nancy Martinez
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Nancy Martinez 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Daniel Robinson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Daniel Robinson
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Daniel Robinson 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Karen Clark
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Karen Clark
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Karen Clark 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Matthew Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Matthew Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Matthew Rodriguez 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Betty Lewis
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Betty Lewis
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Betty Lewis 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Anthony Lee
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Anthony Lee
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Anthony Lee 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Helen Walker
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Helen Walker
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Helen Walker 
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Mark Hall
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Mark Hall
+2025-08-02 22:01:56 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Mark Hall 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Carlos Gonzalez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Carlos Gonzalez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Carlos Gonzalez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Maria Hernandez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Maria Hernandez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Maria Hernandez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Jose Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Jose Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Jose Rodriguez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Ana Martinez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Ana Martinez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Ana Martinez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Luis Lopez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Luis Lopez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Luis Lopez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Carmen Flores
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Carmen Flores
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Carmen Flores 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Miguel Torres
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Miguel Torres
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Miguel Torres 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Rosa Ramirez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Rosa Ramirez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Rosa Ramirez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Francisco Gutierrez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Francisco Gutierrez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Francisco Gutierrez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Isabel Morales
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Isabel Morales
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Isabel Morales 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Ramon Ortiz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Ramon Ortiz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Ramon Ortiz 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Dolores Vargas
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Dolores Vargas
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Dolores Vargas 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Eduardo Castillo
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Eduardo Castillo
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Eduardo Castillo 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Teresa Jimenez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Teresa Jimenez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Teresa Jimenez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Roberto Herrera
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Roberto Herrera
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Roberto Herrera 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Angela Medina
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Angela Medina
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Angela Medina 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Alejandro Cruz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Alejandro Cruz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Alejandro Cruz 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Monica Reyes
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Monica Reyes
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Monica Reyes 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Fernando Santos
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Fernando Santos
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Fernando Santos 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Gloria Aguilar
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Gloria Aguilar
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Gloria Aguilar 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Sergio Delgado
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Sergio Delgado
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Sergio Delgado 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Patricia Vazquez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Patricia Vazquez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Patricia Vazquez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Arturo Mendoza
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Arturo Mendoza
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Arturo Mendoza 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Sandra Ruiz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Sandra Ruiz
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Sandra Ruiz 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Javier Peña
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Javier Peña
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Javier Peña 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Leticia Soto
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Leticia Soto
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Leticia Soto 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Gustavo Rivera
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Gustavo Rivera
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Gustavo Rivera 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Beatriz Chavez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Beatriz Chavez
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Beatriz Chavez 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Armando Guerrero
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Armando Guerrero
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Armando Guerrero 
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.<init>]             Initializing employee with name: Yolanda Ramos
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Attempting to set name: Yolanda Ramos
+2025-08-02 22:01:56 [DEBUG]   [ShiftWorker.setName]            Capitalized name: Yolanda Ramos 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Carlos Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Carlos Rodriguez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Carlos Rodriguez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Carlos Rodriguez, Hourly Rate: 26.5, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Maria Gonzalez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Maria Gonzalez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Maria Gonzalez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Maria Gonzalez, Hourly Rate: 25.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Jose Martinez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Jose Martinez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Jose Martinez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Jose Martinez, Hourly Rate: 28.0, License: D
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Ana Lopez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Ana Lopez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Ana Lopez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Ana Lopez, Hourly Rate: 26.0, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Luis Hernandez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Luis Hernandez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Luis Hernandez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2004, Name: Luis Hernandez, Hourly Rate: 27.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Carmen Flores
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Carmen Flores
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Carmen Flores 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2005, Name: Carmen Flores, Hourly Rate: 25.5, License: A
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Miguel Torres
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Miguel Torres
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Miguel Torres 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2006, Name: Miguel Torres, Hourly Rate: 27.5, License: D
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Rosa Ramirez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Rosa Ramirez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Rosa Ramirez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2007, Name: Rosa Ramirez, Hourly Rate: 26.5, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Francisco Silva
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Francisco Silva
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Francisco Silva 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2008, Name: Francisco Silva, Hourly Rate: 25.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Isabel Morales
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Isabel Morales
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Isabel Morales 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2009, Name: Isabel Morales, Hourly Rate: 28.0, License: D
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Ramon Ortiz
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Ramon Ortiz
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Ramon Ortiz 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2010, Name: Ramon Ortiz, Hourly Rate: 26.0, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dolores Vargas
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Dolores Vargas
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Dolores Vargas 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2011, Name: Dolores Vargas, Hourly Rate: 27.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Eduardo Castillo
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Eduardo Castillo
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Eduardo Castillo 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2012, Name: Eduardo Castillo, Hourly Rate: 25.5, License: A
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Teresa Jimenez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Teresa Jimenez
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Teresa Jimenez 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2013, Name: Teresa Jimenez, Hourly Rate: 27.5, License: D
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Roberto Herrera
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Roberto Herrera
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Roberto Herrera 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2014, Name: Roberto Herrera, Hourly Rate: 26.5, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Angela Medina
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Angela Medina
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Angela Medina 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2015, Name: Angela Medina, Hourly Rate: 25.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Alejandro Cruz
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Alejandro Cruz
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Alejandro Cruz 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2016, Name: Alejandro Cruz, Hourly Rate: 28.0, License: D
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Monica Reyes
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Monica Reyes
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Monica Reyes 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2017, Name: Monica Reyes, Hourly Rate: 26.0, License: C
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Fernando Santos
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Fernando Santos
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Fernando Santos 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2018, Name: Fernando Santos, Hourly Rate: 27.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Gloria Aguilar
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Gloria Aguilar
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Gloria Aguilar 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2019, Name: Gloria Aguilar, Hourly Rate: 25.5, License: A
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadEmployeesFromFile] Employees loaded successfully
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Loading departments from Runner/data/departments.csv
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadDepartmentsFromFile] Departments loaded successfully
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Loading vehicles from Runner/data/vehicles.csv
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Attempting to set name: Default Driver
+2025-08-02 22:01:56 [DEBUG]   [Driver.setName]                 Capitalized name: Default Driver 
+2025-08-02 22:01:56 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2000, Name: Default Driver, Hourly Rate: 15.0, License: B
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadVehiclesFromFile] Vehicles loaded successfully
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Assigning employees to departments
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.assignEmployeesToDepartments] Employees assigned to departments
+2025-08-02 22:01:56 [INFO]    [CompanyDataManager.loadAllData] All company data loaded successfully
+2025-08-02 22:01:57 [INFO]    [MainApplicationSwing.<init>]    UI application started successfully
+2025-08-02 22:01:57 [INFO]    [MainApplicationSwing.refreshCompanyMetrics] Company metrics refreshed
+2025-08-02 22:01:57 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Refreshing department table
+2025-08-02 22:01:57 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Department table refreshed with 14 departments
+2025-08-02 22:01:57 [DEBUG]   [EmployeeManagerUI.lambda$refreshUI$15] EmployeeManagerUI refreshed from external call
+2025-08-02 22:02:12 [INFO]    [DepartmentOverviewDialog.loadEmployeeData] Loaded 9 employees for department: Test
+2025-08-02 22:02:12 [INFO]    [DepartmentOverviewDialog.<init>] Department overview dialog created for: Test
+2025-08-02 22:02:16 [INFO]    [DepartmentManagerUI.openDepartmentOverview] Opened overview for department: Test
+2025-08-02 22:02:23 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Refreshing department table
+2025-08-02 22:02:23 [INFO]    [DepartmentManagerUI.refreshDepartmentTable] Department table refreshed with 15 departments
+2025-08-02 22:02:23 [INFO]    [DepartmentManagerUI.createDepartment] Created department: Test_test
+2025-08-02 22:02:25 [INFO]    [DepartmentOverviewDialog.loadEmployeeData] Loaded 0 employees for department: Test_test
+2025-08-02 22:02:25 [INFO]    [DepartmentOverviewDialog.<init>] Department overview dialog created for: Test_test
+2025-08-02 22:02:27 [INFO]    [DepartmentManagerUI.openDepartmentOverview] Opened overview for department: Test_test

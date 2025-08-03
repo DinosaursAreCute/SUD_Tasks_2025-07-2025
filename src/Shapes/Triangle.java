@@ -23,7 +23,7 @@ public class Triangle extends Shape2D {
         sides[0] = sideA;
         try{ validateTriangle(sides);}catch (IllegalArgumentException e){
             sides[0]=oldA;
-            logger.error("Shapes.Trinagle.java/setSideA: " + e.getMessage());
+            logger.error("Shapes.Triangle.java/setSideA: " + e.getMessage());
         }
     }
 
@@ -36,7 +36,7 @@ public class Triangle extends Shape2D {
         sides[1] = sideB;
         try{ validateTriangle(sides);}catch (IllegalArgumentException e){
             sides[1]=oldB;
-            logger.error("Shapes.Trinagle.java/setSideA: " + e.getMessage());
+            logger.error("Shapes.Triangle.java/setSideB: " + e.getMessage());
         }
     }
 
@@ -49,7 +49,7 @@ public class Triangle extends Shape2D {
         sides[2] = sideC;
         try{ validateTriangle(sides);}catch (IllegalArgumentException e){
             sides[2]=oldC;
-            logger.error("Shapes.Trinagle.java/setSideA: " + e.getMessage());
+            logger.error("Shapes.Triangle.java/setSideC: " + e.getMessage());
         }
     }
 

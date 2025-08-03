@@ -23,8 +23,8 @@ public class Driver extends ShiftWorker {
     }
     public void setLicense(char license) {
         try {
-            if (license != 'A' && license != 'B' && license != 'C') {
-                throw new IllegalArgumentException("Invalid license type. Must be A, B, or C.");
+            if (license != 'A' && license != 'B' && license != 'C' && license != 'D') {
+                throw new IllegalArgumentException("Invalid license type. Must be A, B, C, or D.");
             }
             else  this.license = license;
         } catch (IllegalArgumentException e) {
