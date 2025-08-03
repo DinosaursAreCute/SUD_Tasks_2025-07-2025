@@ -4,17 +4,12 @@ package Vehicles;
 import Employees.Driver;
 
 public class Bus extends PassengerVehicle {
-    private String driverName;
-
+    
+    public Bus(double tankSize, double maxSpeed, GPSPosition position, int seatCount, Driver driver) {
+        super(tankSize, maxSpeed, driver, position, seatCount, 'D');
+    }
+    
     public Bus(double tankSize, double maxSpeed, GPSPosition position, int seatCount) {
-        super(tankSize, maxSpeed, position, seatCount);
+        super(tankSize, maxSpeed, position, seatCount, 'D');
     }
-
-    @Override
-    public void setDriver(Driver driver) {
-        if (driver.getLicense() != 'D') throw new IllegalArgumentException("Bus driver must have license D");
-        super.setDriver(driver);
-    }
-
-    public String getDriverName() { return driverName; }
 }

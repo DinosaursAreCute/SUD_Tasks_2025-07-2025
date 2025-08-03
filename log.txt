@@ -587,3 +587,207 @@
 2025-08-02 19:34:52 [INFO]    [TestDepartment.logInfo]         Driver license: C
 2025-08-02 19:35:01 [INFO]    [Rectangle.<init>]               Creating shape with width: 7.7 Height: 4.0
 2025-08-02 19:35:01 [INFO]    [Circle.<init>]                  Creating shape with width: 2.5 Height: 2.5
+2025-08-03 17:08:04 [INFO]    [TestVehicle.main]               Starting Vehicle Test...
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dixie Normous
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Attempting to set name: Dixie Normous
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Capitalized name: Dixie Normous 
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Dixie Normous, Hourly Rate: 20.0, License: A
+2025-08-03 17:08:04 [DEBUG]   [TestVehicle.main]               Driver 1 created: ShiftWorker{id=2001, name='Dixie Normous', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dino Tester
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Attempting to set name: Dino Tester
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Capitalized name: Dino Tester 
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Dino Tester, Hourly Rate: 20.0, License: B
+2025-08-03 17:08:04 [DEBUG]   [TestVehicle.main]               Driver 2 created: ShiftWorker{id=2002, name='Dino Tester', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dave
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Attempting to set name: Dave
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Capitalized name: Dave 
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Dave, Hourly Rate: 20.0, License: C
+2025-08-03 17:08:04 [DEBUG]   [TestVehicle.main]               Driver 3 created: ShiftWorker{id=2003, name='Dave', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Torbek
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Attempting to set name: Torbek
+2025-08-03 17:08:04 [DEBUG]   [Driver.setName]                 Capitalized name: Torbek 
+2025-08-03 17:08:04 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2004, Name: Torbek, Hourly Rate: 20.0, License: D
+2025-08-03 17:08:04 [ERROR]   [Driver.setLicense]              Error setting license: Invalid license type. Must be A, B, or C.
+2025-08-03 17:08:04 [ERROR]   [TestVehicle.main]               Illegal argument exception: Invalid license for Driver
+2025-08-03 17:08:50 [INFO]    [TestVehicle.main]               Starting Vehicle Test...
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dixie Normous
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dixie Normous
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dixie Normous 
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Dixie Normous, Hourly Rate: 20.0, License: A
+2025-08-03 17:08:50 [DEBUG]   [TestVehicle.main]               Driver 1 created: ShiftWorker{id=2001, name='Dixie Normous', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dino Tester
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dino Tester
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dino Tester 
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Dino Tester, Hourly Rate: 20.0, License: B
+2025-08-03 17:08:50 [DEBUG]   [TestVehicle.main]               Driver 2 created: ShiftWorker{id=2002, name='Dino Tester', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dave
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dave
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dave 
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Dave, Hourly Rate: 20.0, License: C
+2025-08-03 17:08:50 [DEBUG]   [TestVehicle.main]               Driver 3 created: ShiftWorker{id=2003, name='Dave', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Torbek
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Torbek
+2025-08-03 17:08:50 [DEBUG]   [Driver.setName]                 Capitalized name: Torbek 
+2025-08-03 17:08:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2004, Name: Torbek, Hourly Rate: 20.0, License: D
+2025-08-03 17:08:50 [ERROR]   [Driver.setLicense]              Error setting license: Invalid license type. Must be A, B, or C.
+2025-08-03 17:08:50 [ERROR]   [TestVehicle.main]               Illegal argument exception: Invalid license for Driver
+2025-08-03 17:09:50 [INFO]    [TestVehicle.main]               Starting Vehicle Test...
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dixie Normous
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dixie Normous
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dixie Normous 
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Dixie Normous, Hourly Rate: 20.0, License: A
+2025-08-03 17:09:50 [DEBUG]   [TestVehicle.main]               Driver 1 created: ShiftWorker{id=2001, name='Dixie Normous', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dino Tester
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dino Tester
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dino Tester 
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Dino Tester, Hourly Rate: 20.0, License: B
+2025-08-03 17:09:50 [DEBUG]   [TestVehicle.main]               Driver 2 created: ShiftWorker{id=2002, name='Dino Tester', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Dave
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Dave
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Capitalized name: Dave 
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Dave, Hourly Rate: 20.0, License: C
+2025-08-03 17:09:50 [DEBUG]   [TestVehicle.main]               Driver 3 created: ShiftWorker{id=2003, name='Dave', hoursWorked=0, hourlyRate=20,00, salary=0,00}
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Torbek
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Attempting to set name: Torbek
+2025-08-03 17:09:50 [DEBUG]   [Driver.setName]                 Capitalized name: Torbek 
+2025-08-03 17:09:50 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2004, Name: Torbek, Hourly Rate: 20.0, License: D
+2025-08-03 17:09:50 [ERROR]   [Driver.setLicense]              Error setting license: Invalid license type. Must be A, B, or C.
+2025-08-03 17:09:50 [ERROR]   [TestVehicle.main]               Illegal argument exception: Invalid license for Driver
+2025-08-03 17:09:50 [INFO]    [TestVehicle.main]               TestVehicle failed due to illegal argument exception.
+2025-08-03 17:09:50 [INFO]    [TestVehicle.main]               TestVehicle completed.
+2025-08-03 17:19:46 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Alice Anderson
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Attempting to set name: Alice Anderson
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Capitalized name: Alice Anderson 
+2025-08-03 17:19:47 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Alice Anderson, Hourly Rate: 25.5, License: A
+2025-08-03 17:19:47 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Bob Builder
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Attempting to set name: Bob Builder
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Capitalized name: Bob Builder 
+2025-08-03 17:19:47 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Bob Builder, Hourly Rate: 22.0, License: B
+2025-08-03 17:19:47 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Charlie Cargo
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Attempting to set name: Charlie Cargo
+2025-08-03 17:19:47 [DEBUG]   [Driver.setName]                 Capitalized name: Charlie Cargo 
+2025-08-03 17:19:47 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Charlie Cargo, Hourly Rate: 28.75, License: C
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Emma Employee
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Emma Employee
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Emma Employee 
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Frank Fellow
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Frank Fellow
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Frank Fellow 
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Bob Builder
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: B
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: B
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.setDriver]     Driver set successfully: Bob Builder
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 50.0 units
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 50.0
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.stopEngine]    Engine stopped
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 100.0 units
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Tank is full, overflow: 50.0
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 100.0
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: A
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: D
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: X
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: B
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: B
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: C
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: C
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: D
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: D
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Grace Guest
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Grace Guest
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Grace Guest 
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Henry Helper
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Henry Helper
+2025-08-03 17:19:47 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Henry Helper 
+2025-08-03 17:19:47 [DEBUG]   [Truck.load]                     Loaded 10.0 units. Total loaded: 10.0
+2025-08-03 17:19:47 [DEBUG]   [Truck.unload]                   Unloaded 5.0 units. Remaining: 5.0
+2025-08-03 17:19:47 [DEBUG]   [Bus.refuel]                     Refueling vehicle with 20.0 units
+2025-08-03 17:19:47 [DEBUG]   [Bus.refuel]                     Tank level after refueling: 20.0
+2025-08-03 17:19:47 [DEBUG]   [Bus.startEngine]                Engine started
+2025-08-03 17:19:47 [DEBUG]   [Truck.refuel]                   Refueling vehicle with 20.0 units
+2025-08-03 17:19:47 [DEBUG]   [Truck.refuel]                   Tank level after refueling: 20.0
+2025-08-03 17:19:47 [DEBUG]   [Truck.startEngine]              Engine started
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 50.0 units
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 50.0
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Charlie Cargo
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: C
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: C
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.setDriver]     Driver set successfully: Charlie Cargo
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Alice Anderson
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: A
+2025-08-03 17:19:47 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: A
+2025-08-03 17:19:47 [ERROR]   [PassengerVehicle.setDriver]     Error setting driver: Driver must have license B
+2025-08-03 17:19:47 [DEBUG]   [Truck.setDriver]                Trying to set driver: Charlie Cargo
+2025-08-03 17:19:47 [DEBUG]   [Truck.isLicenseReqMet]          Checking license requirement: C
+2025-08-03 17:19:47 [DEBUG]   [Truck.isLicenseValid]           Checking license validity: C
+2025-08-03 17:19:47 [DEBUG]   [Truck.setDriver]                Driver set successfully: Charlie Cargo
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Alice Anderson
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Attempting to set name: Alice Anderson
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Capitalized name: Alice Anderson 
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2001, Name: Alice Anderson, Hourly Rate: 25.5, License: A
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Bob Builder
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Attempting to set name: Bob Builder
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Capitalized name: Bob Builder 
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2002, Name: Bob Builder, Hourly Rate: 22.0, License: B
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Initializing employee with name: Charlie Cargo
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Attempting to set name: Charlie Cargo
+2025-08-03 17:20:01 [DEBUG]   [Driver.setName]                 Capitalized name: Charlie Cargo 
+2025-08-03 17:20:01 [DEBUG]   [Driver.<init>]                  Creating driver with ID: 2003, Name: Charlie Cargo, Hourly Rate: 28.75, License: C
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Emma Employee
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Emma Employee
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Emma Employee 
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Frank Fellow
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Frank Fellow
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Frank Fellow 
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Bob Builder
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: B
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: B
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.setDriver]     Driver set successfully: Bob Builder
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 50.0 units
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 50.0
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.stopEngine]    Engine stopped
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 100.0 units
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Tank is full, overflow: 50.0
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 100.0
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: A
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: D
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: X
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: B
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: B
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: C
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: C
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: D
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: D
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Grace Guest
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Grace Guest
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Grace Guest 
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.<init>]            Initializing employee with name: Henry Helper
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Attempting to set name: Henry Helper
+2025-08-03 17:20:01 [DEBUG]   [OfficeWorker.setName]           Capitalized name: Henry Helper 
+2025-08-03 17:20:01 [DEBUG]   [Truck.load]                     Loaded 10.0 units. Total loaded: 10.0
+2025-08-03 17:20:01 [DEBUG]   [Truck.unload]                   Unloaded 5.0 units. Remaining: 5.0
+2025-08-03 17:20:01 [DEBUG]   [Bus.refuel]                     Refueling vehicle with 20.0 units
+2025-08-03 17:20:01 [DEBUG]   [Bus.refuel]                     Tank level after refueling: 20.0
+2025-08-03 17:20:01 [DEBUG]   [Bus.startEngine]                Engine started
+2025-08-03 17:20:01 [DEBUG]   [Truck.refuel]                   Refueling vehicle with 20.0 units
+2025-08-03 17:20:01 [DEBUG]   [Truck.refuel]                   Tank level after refueling: 20.0
+2025-08-03 17:20:01 [DEBUG]   [Truck.startEngine]              Engine started
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Refueling vehicle with 50.0 units
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.refuel]        Tank level after refueling: 50.0
+2025-08-03 17:20:01 [DEBUG]   [PassengerVehicle.startEngine]   Engine started
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Charlie Cargo
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: C
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: C
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.setDriver]     Driver set successfully: Charlie Cargo
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.setDriver]     Trying to set driver: Alice Anderson
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.isLicenseReqMet] Checking license requirement: A
+2025-08-03 17:20:02 [DEBUG]   [PassengerVehicle.isLicenseValid] Checking license validity: A
+2025-08-03 17:20:02 [ERROR]   [PassengerVehicle.setDriver]     Error setting driver: Driver must have license B
+2025-08-03 17:20:02 [DEBUG]   [Truck.setDriver]                Trying to set driver: Charlie Cargo
+2025-08-03 17:20:02 [DEBUG]   [Truck.isLicenseReqMet]          Checking license requirement: C
+2025-08-03 17:20:02 [DEBUG]   [Truck.isLicenseValid]           Checking license validity: C
+2025-08-03 17:20:02 [DEBUG]   [Truck.setDriver]                Driver set successfully: Charlie Cargo

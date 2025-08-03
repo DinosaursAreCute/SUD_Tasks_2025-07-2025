@@ -1,30 +1,27 @@
-// Represents a passenger vehicle with seat management.
 package Vehicles;
 
 import Employees.Driver;
 import Employees.Employee;
-import Utils.Logger;
 import java.util.ArrayList;
 import java.util.List;
 
 public class PassengerVehicle extends Vehicle {
-    private Logger logger = new Logger(getClass().getSimpleName());
     private int seatCount;
     private List<Employee> passengers;
 
-    public PassengerVehicle(double tankSize, double maxSpeed, GPSPosition position, int seatCount) {
-        super(tankSize, maxSpeed, position);
-        setPosition(position);
-        setSeatCount(seatCount);
-        setPassengers(new ArrayList<>());
+    public PassengerVehicle(double tankSize, double maxSpeed, GPSPosition position, int seatCount, char licenseReq) {
+        super(tankSize, maxSpeed, position, licenseReq);
+        if (seatCount <= 0) throw new IllegalArgumentException("Seat count must be positive");
+        this.seatCount = seatCount;
+        this.passengers = new ArrayList<>();
     }
 
-    @Override
-    public void setDriver(Driver driver) {
-        if (driver.getLicense() != 'B') throw new IllegalArgumentException("Truck driver must have license B");
-        super.setDriver(driver);
+    public PassengerVehicle(double tankSize, double maxSpeed, Driver driver, GPSPosition position, int seatCount, char licenseReq) {
+        super(tankSize, maxSpeed, driver, position, licenseReq);
+        if (seatCount <= 0) throw new IllegalArgumentException("Seat count must be positive");
+        this.seatCount = seatCount;
+        this.passengers = new ArrayList<>();
     }
-
     public void setSeatCount(int seatCount) {
         if (seatCount <= 0) throw new IllegalArgumentException("Seat count must be positive");
         this.seatCount = seatCount;

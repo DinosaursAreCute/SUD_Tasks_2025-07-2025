@@ -1,6 +1,7 @@
 package Vehicles;
 import Employees.Driver;
 import Utils.Logger;
+import java.util.HashMap;
 
 public abstract class Vehicle {
     protected Logger logger = new Logger(getClass().getSimpleName());
@@ -9,28 +10,73 @@ public abstract class Vehicle {
     protected double currentSpeed;
     protected double maxSpeed;
     protected boolean engineOn;
+    private char licenseReq;
     protected GPSPosition position;
-    protected Driver driver = new Driver(2000,"Default Driver", 15.0, 'B');
+    protected Driver driver;
+    private HashMap<Character,Integer> licenseMap = new HashMap<>();
+    {
+        // Initialize license map with default values
+        addToHashMap('A', 1);
+        addToHashMap('B', 2);
+        addToHashMap('C', 3);
+        addToHashMap('D', 4);
+    }
 
+    //constructors
     public Vehicle(double tankSize, double maxSpeed, GPSPosition position) {
-        setTankSize(tankSize);
-        setTankLevel(0);
-        setMaxSpeed(maxSpeed);
-        setCurrentSpeed(0);
-        setEngineOn(false);
-        setPosition(position);
-    }
-    public Vehicle(double tankSize, double maxSpeed,Driver driver, GPSPosition position) {
-        setTankSize(tankSize);
-        setTankLevel(0);
-        setMaxSpeed(maxSpeed);
-        setCurrentSpeed(0);
-        setEngineOn(false);
-        setPosition(position);
-        setDriver(driver);
-
+        if (tankSize <= 0) throw new IllegalArgumentException("Tank size must be positive");
+        if (maxSpeed <= 0) throw new IllegalArgumentException("Max speed must be positive");
+        if (position == null) throw new IllegalArgumentException("Position cannot be null");
+        
+        this.tankSize = tankSize;
+        this.tankLevel = 0;
+        this.maxSpeed = maxSpeed;
+        this.currentSpeed = 0;
+        this.engineOn = false;
+        this.position = position;
     }
 
+    public Vehicle(double tankSize, double maxSpeed,Driver driver, GPSPosition position, char licenseReq) {
+        if (tankSize <= 0) throw new IllegalArgumentException("Tank size must be positive");
+        if (maxSpeed <= 0) throw new IllegalArgumentException("Max speed must be positive");
+        if (position == null) throw new IllegalArgumentException("Position cannot be null");
+        if (licenseReq != 'A' && licenseReq != 'B' && licenseReq != 'C' && licenseReq != 'D') throw new IllegalArgumentException("Invalid license type. Must be A, B, C, or D.");
+        if (driver == null) throw new NullPointerException("Driver cannot be null");
+        
+        this.tankSize = tankSize;
+        this.tankLevel = 0;
+        this.maxSpeed = maxSpeed;
+        this.currentSpeed = 0;
+        this.engineOn = false;
+        this.position = position;
+        this.licenseReq = licenseReq;
+        
+        // Validate driver license directly
+        char driverLicense = driver.getLicense();
+        if (driverLicense != 'A' && driverLicense != 'B' && driverLicense != 'C' && driverLicense != 'D') {
+            throw new IllegalArgumentException("Driver has invalid license");
+        }
+        if (licenseMap.get(driverLicense) < licenseMap.get(licenseReq)) {
+            throw new IllegalArgumentException("Driver must have license " + licenseReq);
+        }
+        this.driver = driver;
+    }
+
+    public Vehicle(double tankSize, double maxSpeed, GPSPosition position, char licenseReq) {
+        if (tankSize <= 0) throw new IllegalArgumentException("Tank size must be positive");
+        if (maxSpeed <= 0) throw new IllegalArgumentException("Max speed must be positive");
+        if (position == null) throw new IllegalArgumentException("Position cannot be null");
+        if (licenseReq != 'A' && licenseReq != 'B' && licenseReq != 'C' && licenseReq != 'D') throw new IllegalArgumentException("Invalid license type. Must be A, B, C, or D.");
+        
+        this.tankSize = tankSize;
+        this.tankLevel = 0;
+        this.maxSpeed = maxSpeed;
+        this.currentSpeed = 0;
+        this.engineOn = false;
+        this.position = position;
+        this.licenseReq = licenseReq;
+    }
+    // Setters and Getters
     public void setTankSize(double tankSize) {
         if (tankSize <= 0) throw new IllegalArgumentException("Tank size must be positive");
         this.tankSize = tankSize;
@@ -61,9 +107,59 @@ public abstract class Vehicle {
     }
 
     public void setDriver(Driver driver) {
-        this.driver = driver;
+        try {
+            logger.debug("Trying to set driver: " + (driver != null ? driver.getName() : "null"));
+            if(driver == null) throw new NullPointerException("Driver cannot be null");
+            if (!isLicenseReqMet(driver.getLicense())) {
+                throw new IllegalArgumentException("Driver must have license " + getLicenseReq());
+            }
+            this.driver = driver;
+            logger.debug("Driver set successfully: " + driver.getName());
+        } catch (NullPointerException e) {
+            logger.error("Error setting driver: " + e.getMessage());
+            throw new RuntimeException(e);
+        } catch (IllegalArgumentException e) {
+            logger.error("Error setting driver: " + e.getMessage());
+            throw new RuntimeException(e);
+        }
     }
 
+    protected char getLicenseReq() {
+        return licenseReq;
+    }
+
+    protected void setLicenseReq(char licenseReq) {
+        try {
+            if (licenseReq != 'A' && licenseReq != 'B' && licenseReq != 'C' && licenseReq != 'D') throw new IllegalArgumentException("Invalid license type. Must be A, B, C, or D.");
+            this.licenseReq = licenseReq;
+        } catch (IllegalArgumentException e) {
+            logger.error("Error setting license requirement: " + e.getMessage());
+            throw new RuntimeException(e);
+        }
+    }
+
+    public HashMap<Character, Integer> getLicenseMap() {
+        return licenseMap;
+    }
+
+    public void setLicenseMap(HashMap<Character, Integer> licenseMap) {
+        try {
+            if(licenseMap == null )throw new IllegalArgumentException("License map cannot be null");
+            this.licenseMap = licenseMap;
+        } catch (IllegalArgumentException e) {
+            logger.error("Error setting license map: " + e.getMessage());
+            throw new RuntimeException(e);
+        }
+    }
+
+    private void addToHashMap(char license, int value) {
+        if (licenseMap.containsKey(license)) {
+            licenseMap.put(license, licenseMap.get(license) + value);
+        } else {
+            licenseMap.put(license, value);
+        }
+    }
+    // Methods
     public void refuel(double amount) {
         if (amount < 0) throw new IllegalArgumentException("Cannot refuel negative amount");
         logger.debug("Refueling vehicle with " + amount + " units");
@@ -108,6 +204,16 @@ public abstract class Vehicle {
 
     public double getTankLevel() { return tankLevel; }
     public double getTankSize() { return tankSize; }
+
+
+    public Boolean isLicenseValid(char lincense) {
+        logger.debug("Checking license validity: " + lincense);
+        return lincense == 'A' || lincense == 'B' || lincense == 'C' || lincense == 'D';
+    }
+    public Boolean isLicenseReqMet(char license) {
+        logger.debug("Checking license requirement: " + license);
+        return isLicenseValid(license) && licenseMap.get(license) >= licenseMap.get(licenseReq);
+    }
     public Driver getDriver() { return driver; }
     public GPSPosition getPosition() { return position; }
     public String getInfo() {
